@@ -1,0 +1,7 @@
+List and explain three 3 reasons why programmers write documentation.
+
+helps improve writing skills, allows understanding of your product better, and helps improve your async communication.
+
+Describe three (3) negative outcomes that could happen if a programmer has bad or no documentation.
+
+hard to read code, premature optimization of at the level of the source, and not taking time to make sure you program securely, plus leaving your code open can cause a security breach.
